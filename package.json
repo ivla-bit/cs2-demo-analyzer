@@ -1,0 +1,31 @@
+{
+  "name": "cs2-demo-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivla-bit/cs2-demo-analyzer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivla-bit/cs2-demo-analyzer/issues"
+  },
+  "homepage": "https://github.com/ivla-bit/cs2-demo-analyzer#readme",
+  "dependencies": {
+    "@laihoe/demoparser2": "^0.41.3",
+    "@types/node": "^25.9.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.4"
+  }
+}
