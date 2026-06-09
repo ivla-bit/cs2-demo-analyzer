@@ -28,9 +28,9 @@ export class Renderer {
 
       const startTick = Math.max(0, moment.tick - this.TICKS_BEFORE_KILL);
 
-      cfgContent += `// moment #${idx + 1}: ${moment.attacker.name} -> ${moment.victim.name} (${moment.angleDifference}°)\n`;
+      cfgContent += `// moment #${idx + 1}: ${moment.attacker.name} -> killed -> ${moment.victim.name} (${moment.angleDifference}°)\n`;
 
-      cfgContent += `alias "moment_${idx + 1}" "demo_goto ${startTick}; spec_player ${moment.attacker.name}; echo 'going to moment ${idx + 1} (${moment.attacker.name})'"\n`;
+      cfgContent += `alias "moment_${idx + 1}" "demo_goto ${startTick}; spec_player ${moment.victim.name}; echo 'going to moment ${idx + 1} (POV: ${moment.victim.name})'"\n`;
       cfgContent += `bind "F${fkey}" "moment_${idx + 1}"\n\n`;
     });
 
