@@ -10,7 +10,7 @@ import { DemoAnalyzer } from "./analyzer";
 import { Renderer } from "./renderer";
 
 async function main() {
-  const demoName = "cybershoke-vs-shishka-m2-dust2.dem";
+  const demoName = "g2-vs-big-m1-inferno.dem";
   const demopath = path.join(__dirname, "../demos/", demoName);
 
   if (!fs.existsSync(demopath)) {

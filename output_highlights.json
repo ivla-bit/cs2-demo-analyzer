@@ -1,751 +1,451 @@
 [
   {
-    "tick": 1534,
-    "roundNumber": 0,
-    "formattedTime": "Round 0 (Tick: 1534)",
-    "victim": {
-      "steamid": "76561198845426189",
-      "name": "alpha--",
-      "position": {
-        "x": 280.7890930175781,
-        "y": 2311.792724609375,
-        "z": -118.96875
-      },
-      "yaw": -18.352325439453125,
-      "pitch": 8.5765380859375
-    },
-    "attacker": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
-      "position": {
-        "x": 193.00686645507812,
-        "y": 2354.1494140625,
-        "z": -119.96875
-      },
-      "yaw": -26.954269409179688,
-      "pitch": 8.822021484375
-    },
-    "angleDifference": 173,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 22171,
-    "roundNumber": 2,
-    "formattedTime": "Round 2 (Tick: 22171)",
-    "victim": {
-      "steamid": "76561199032362645",
-      "name": "bl1x1",
-      "position": {
-        "x": -1380.3797607421875,
-        "y": 2583.03662109375,
-        "z": 119.03125
-      },
-      "yaw": -90.49129486083984,
-      "pitch": 26.284454345703125
-    },
-    "attacker": {
-      "steamid": "76561198365697700",
-      "name": "shalfey111",
-      "position": {
-        "x": -1366.056640625,
-        "y": 2615.09375,
-        "z": 119.03266906738281
-      },
-      "yaw": -111.51500701904297,
-      "pitch": 56.297027587890625
-    },
-    "angleDifference": 156,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 61361,
-    "roundNumber": 7,
-    "formattedTime": "Round 7 (Tick: 61361)",
-    "victim": {
-      "steamid": "76561198845426189",
-      "name": "alpha--",
-      "position": {
-        "x": 480.60406494140625,
-        "y": 1847.5869140625,
-        "z": 96.67376708984375
-      },
-      "yaw": -66.64752960205078,
-      "pitch": 17.735366821289062
-    },
-    "attacker": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
-      "position": {
-        "x": 520.6502685546875,
-        "y": 2752.176513671875,
-        "z": 97.20367431640625
-      },
-      "yaw": -92.28309631347656,
-      "pitch": 1.30908203125
-    },
-    "angleDifference": 154,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 19832,
-    "roundNumber": 2,
-    "formattedTime": "Round 2 (Tick: 19832)",
-    "victim": {
-      "steamid": "76561198845426189",
-      "name": "alpha--",
-      "position": {
-        "x": -630.4197387695312,
-        "y": 2435.8486328125,
-        "z": -90.10595703125
-      },
-      "yaw": -45.2928466796875,
-      "pitch": 2.4794769287109375
-    },
-    "attacker": {
-      "steamid": "76561198365697700",
-      "name": "shalfey111",
-      "position": {
-        "x": -1212.812744140625,
-        "y": 2606.132080078125,
-        "z": 71.88983154296875
-      },
-      "yaw": -16.867095947265625,
-      "pitch": 15.4649658203125
-    },
-    "angleDifference": 151,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 36231,
-    "roundNumber": 4,
-    "formattedTime": "Round 4 (Tick: 36231)",
-    "victim": {
-      "steamid": "76561198154904607",
-      "name": "Norwi-",
-      "position": {
-        "x": -1165.8616943359375,
-        "y": 2121.19580078125,
-        "z": 60.6875
-      },
-      "yaw": 136.56863403320312,
-      "pitch": 11.473159790039062
-    },
-    "attacker": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
-      "position": {
-        "x": -341.8116455078125,
-        "y": 2106.611572265625,
-        "z": -128.268310546875
-      },
-      "yaw": -179.93270874023438,
-      "pitch": -12.211990356445312
-    },
-    "angleDifference": 138,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 171846,
-    "roundNumber": 20,
-    "formattedTime": "Round 20 (Tick: 171846)",
-    "victim": {
-      "steamid": "76561199032362645",
-      "name": "bl1x1",
-      "position": {
-        "x": 1309.433349609375,
-        "y": 2271.287353515625,
-        "z": 11.997970581054688
-      },
-      "yaw": 55.00236511230469,
-      "pitch": -4.0106964111328125
-    },
-    "attacker": {
-      "steamid": "76561199038958787",
-      "name": "--Mokuj1n",
-      "position": {
-        "x": 902.60498046875,
-        "y": 2176.130859375,
-        "z": -15.34100341796875
-      },
-      "yaw": 10.38037109375,
-      "pitch": -1.5731048583984375
-    },
-    "angleDifference": 138,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 120394,
-    "roundNumber": 14,
-    "formattedTime": "Round 14 (Tick: 120394)",
-    "victim": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
-      "position": {
-        "x": -336.3651123046875,
-        "y": 2000.4498291015625,
-        "z": -126.89312744140625
-      },
-      "yaw": 152.5911865234375,
-      "pitch": -7.44598388671875
-    },
-    "attacker": {
-      "steamid": "76561199032362645",
-      "name": "bl1x1",
-      "position": {
-        "x": 841.5880126953125,
-        "y": 2320.4208984375,
-        "z": -22.72784423828125
-      },
-      "yaw": -164.93878173828125,
-      "pitch": 4.088623046875
-    },
-    "angleDifference": 137,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 2234,
-    "roundNumber": 0,
-    "formattedTime": "Round 0 (Tick: 2234)",
-    "victim": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
-      "position": {
-        "x": 1372.7806396484375,
-        "y": 1284.8656005859375,
-        "z": -9.939208984375
-      },
-      "yaw": 20.455856323242188,
-      "pitch": 14.03607177734375
-    },
-    "attacker": {
-      "steamid": "76561198217764976",
-      "name": "danistzz",
-      "position": {
-        "x": 1357.8056640625,
-        "y": 1252.802978515625,
-        "z": -8.9051513671875
-      },
-      "yaw": 57.92437744140625,
-      "pitch": 12.231903076171875
-    },
-    "angleDifference": 135,
-    "isStrictlyBack": true,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 100578,
+    "tick": 86122,
     "roundNumber": 11,
-    "formattedTime": "Round 11 (Tick: 100578)",
+    "formattedTime": "Round 11 (Tick: 86122)",
     "victim": {
-      "steamid": "76561198845426189",
-      "name": "alpha--",
+      "steamid": "76561198370176682",
+      "name": "gr1ks",
       "position": {
-        "x": 1598.5369873046875,
-        "y": 1701.4776611328125,
-        "z": 48.875
+        "x": 166.7902069091797,
+        "y": 1095.5557861328125,
+        "z": 133.5
       },
-      "yaw": -2.637054443359375,
-      "pitch": 73.92666625976562
+      "yaw": -77.51129150390625,
+      "pitch": 10.00750732421875
     },
     "attacker": {
-      "steamid": "76561198031908632",
-      "name": "Krad",
+      "steamid": "76561199046478501",
+      "name": "MATYS",
       "position": {
-        "x": 1124.5740966796875,
-        "y": 2265.722412109375,
-        "z": 11.850090026855469
+        "x": 394.8121337890625,
+        "y": 1972.5565185546875,
+        "z": 136.03123474121094
       },
-      "yaw": -50.553924560546875,
-      "pitch": 0.77008056640625
+      "yaw": -105.36231994628906,
+      "pitch": 3.625823974609375
     },
-    "angleDifference": 133,
-    "isStrictlyBack": false,
+    "angleDifference": 153,
+    "isStrictlyBack": true,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 139376,
-    "roundNumber": 16,
-    "formattedTime": "Round 16 (Tick: 139376)",
+    "tick": 126840,
+    "roundNumber": 15,
+    "formattedTime": "Round 15 (Tick: 126840)",
     "victim": {
-      "steamid": "76561198217764976",
-      "name": "danistzz",
+      "steamid": "76561198309839541",
+      "name": "SunPayus",
       "position": {
-        "x": 370.22998046875,
-        "y": 1723.0032958984375,
-        "z": 112.734375
+        "x": 420.8689270019531,
+        "y": 2110.30126953125,
+        "z": 140.1398162841797
       },
-      "yaw": 112.56832885742188,
-      "pitch": 21.352615356445312
+      "yaw": -166.65367126464844,
+      "pitch": 13.859939575195312
     },
     "attacker": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
+      "steamid": "76561197961491680",
+      "name": "tabseN",
       "position": {
-        "x": 191.6595001220703,
-        "y": 1368.6190185546875,
-        "z": -0.08367919921875
+        "x": 1121.3734130859375,
+        "y": 2710.032470703125,
+        "z": 126.19898986816406
       },
-      "yaw": 62.91046142578125,
-      "pitch": -6.7449188232421875
+      "yaw": -46.230133056640625,
+      "pitch": 12.40802001953125
     },
-    "angleDifference": 131,
-    "isStrictlyBack": false,
+    "angleDifference": 153,
+    "isStrictlyBack": true,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 120322,
-    "roundNumber": 14,
-    "formattedTime": "Round 14 (Tick: 120322)",
+    "tick": 67910,
+    "roundNumber": 8,
+    "formattedTime": "Round 8 (Tick: 67910)",
     "victim": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
+      "steamid": "76561198078771373",
+      "name": "JDC",
       "position": {
-        "x": -1230.55224609375,
-        "y": 2302.226806640625,
-        "z": 8.589750289916992
+        "x": 2213.15234375,
+        "y": 870.8804931640625,
+        "z": 160.09780883789062
       },
-      "yaw": -147.80422973632812,
-      "pitch": 4.8817138671875
+      "yaw": 52.58262634277344,
+      "pitch": 0.4401397705078125
     },
     "attacker": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
+      "steamid": "76561198068002993",
+      "name": "HeavyGod",
       "position": {
-        "x": -337.4912109375,
-        "y": 2023.4007568359375,
-        "z": -127.1591796875
+        "x": 2138.813232421875,
+        "y": -170.8380126953125,
+        "z": 97.69200134277344
       },
-      "yaw": 162.87094116210938,
-      "pitch": -8.4007568359375
+      "yaw": 86.38720703125,
+      "pitch": -2.11383056640625
     },
-    "angleDifference": 130,
-    "isStrictlyBack": false,
+    "angleDifference": 147,
+    "isStrictlyBack": true,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 139450,
-    "roundNumber": 16,
-    "formattedTime": "Round 16 (Tick: 139450)",
-    "victim": {
-      "steamid": "76561198154904607",
-      "name": "Norwi-",
-      "position": {
-        "x": 318.9853820800781,
-        "y": 1973.996337890625,
-        "z": 98.58357238769531
-      },
-      "yaw": -97.09442138671875,
-      "pitch": 10.14208984375
-    },
-    "attacker": {
-      "steamid": "76561198845426189",
-      "name": "alpha--",
-      "position": {
-        "x": 1497.38525390625,
-        "y": 2567.04931640625,
-        "z": 64.74940490722656
-      },
-      "yaw": -153.75709533691406,
-      "pitch": -0.657806396484375
-    },
-    "angleDifference": 124,
-    "isStrictlyBack": false,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 151397,
-    "roundNumber": 18,
-    "formattedTime": "Round 18 (Tick: 151397)",
-    "victim": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
-      "position": {
-        "x": -1825.996337890625,
-        "y": 1268.488525390625,
-        "z": 93.265625
-      },
-      "yaw": 110.765869140625,
-      "pitch": 16.785736083984375
-    },
-    "attacker": {
-      "steamid": "76561199032362645",
-      "name": "bl1x1",
-      "position": {
-        "x": -1132.7857666015625,
-        "y": 1101.9052734375,
-        "z": -21.148681640625
-      },
-      "yaw": 165.94366455078125,
-      "pitch": -0.895721435546875
-    },
-    "angleDifference": 124,
-    "isStrictlyBack": false,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 179081,
-    "roundNumber": 21,
-    "formattedTime": "Round 21 (Tick: 179081)",
-    "victim": {
-      "steamid": "76561199032362645",
-      "name": "bl1x1",
-      "position": {
-        "x": 1475.2445068359375,
-        "y": 1810.846435546875,
-        "z": -8.263427734375
-      },
-      "yaw": -100.84213256835938,
-      "pitch": 5.451629638671875
-    },
-    "attacker": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
-      "position": {
-        "x": 662.1937866210938,
-        "y": 2591.00927734375,
-        "z": 94.8857421875
-      },
-      "yaw": -43.73553466796875,
-      "pitch": 5.566986083984375
-    },
-    "angleDifference": 123,
-    "isStrictlyBack": false,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 36269,
-    "roundNumber": 4,
-    "formattedTime": "Round 4 (Tick: 36269)",
-    "victim": {
-      "steamid": "76561198031908632",
-      "name": "Krad",
-      "position": {
-        "x": -800.9395141601562,
-        "y": 2100.22802734375,
-        "z": -103.9473876953125
-      },
-      "yaw": -120.35968780517578,
-      "pitch": 5.2974700927734375
-    },
-    "attacker": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
-      "position": {
-        "x": -341.8795166015625,
-        "y": 2103.67333984375,
-        "z": -128.3046875
-      },
-      "yaw": 179.54373168945312,
-      "pitch": 7.85418701171875
-    },
-    "angleDifference": 121,
-    "isStrictlyBack": false,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 2106,
-    "roundNumber": 0,
-    "formattedTime": "Round 0 (Tick: 2106)",
-    "victim": {
-      "steamid": "76561199032362645",
-      "name": "bl1x1",
-      "position": {
-        "x": 1484.435791015625,
-        "y": 1607.55810546875,
-        "z": -8.7432861328125
-      },
-      "yaw": -22.496917724609375,
-      "pitch": 4.088623046875
-    },
-    "attacker": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
-      "position": {
-        "x": 1430.5927734375,
-        "y": 1562.589599609375,
-        "z": -7.085205078125
-      },
-      "yaw": 34.579803466796875,
-      "pitch": 9.74591064453125
-    },
-    "angleDifference": 118,
-    "isStrictlyBack": false,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 57948,
-    "roundNumber": 6,
-    "formattedTime": "Round 6 (Tick: 57948)",
-    "victim": {
-      "steamid": "76561199029023858",
-      "name": "fluffy",
-      "position": {
-        "x": -1019.6112060546875,
-        "y": -748.1612548828125,
-        "z": 150.484375
-      },
-      "yaw": 97.08859252929688,
-      "pitch": 18.5816650390625
-    },
-    "attacker": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
-      "position": {
-        "x": -292.3590087890625,
-        "y": -1018.9896240234375,
-        "z": 77.61234283447266
-      },
-      "yaw": 161.92303466796875,
-      "pitch": 3.234100341796875
-    },
-    "angleDifference": 118,
-    "isStrictlyBack": false,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 151290,
-    "roundNumber": 18,
-    "formattedTime": "Round 18 (Tick: 151290)",
-    "victim": {
-      "steamid": "76561198845426189",
-      "name": "alpha--",
-      "position": {
-        "x": -1246.5860595703125,
-        "y": 1071.6239013671875,
-        "z": 76.828125
-      },
-      "yaw": -65.50117492675781,
-      "pitch": 36.735870361328125
-    },
-    "attacker": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
-      "position": {
-        "x": -1697.93603515625,
-        "y": 1068.7056884765625,
-        "z": 31.70206069946289
-      },
-      "yaw": 1.539459228515625,
-      "pitch": 1.85565185546875
-    },
-    "angleDifference": 114,
-    "isStrictlyBack": false,
-    "checkHistorySeconds": 0
-  },
-  {
-    "tick": 14116,
+    "tick": 12351,
     "roundNumber": 1,
-    "formattedTime": "Round 1 (Tick: 14116)",
+    "formattedTime": "Round 1 (Tick: 12351)",
     "victim": {
-      "steamid": "76561199032362645",
-      "name": "bl1x1",
+      "steamid": "76561198078771373",
+      "name": "JDC",
       "position": {
-        "x": -464.8330078125,
-        "y": 1532.223388671875,
-        "z": -125.0780029296875
+        "x": 1899.7772216796875,
+        "y": 66.90486907958984,
+        "z": 126.6972885131836
       },
-      "yaw": -12.64251708984375,
-      "pitch": -26.790496826171875
+      "yaw": -69.2629623413086,
+      "pitch": -20.459976196289062
     },
     "attacker": {
-      "steamid": "76561198154904607",
-      "name": "Norwi-",
+      "steamid": "76561198309839541",
+      "name": "SunPayus",
       "position": {
-        "x": -477.88037109375,
-        "y": 2247.53076171875,
-        "z": -118.21417236328125
+        "x": 2385.456298828125,
+        "y": 885.327392578125,
+        "z": 160.0757598876953
       },
-      "yaw": -89.12590026855469,
-      "pitch": 2.365142822265625
+      "yaw": -120.93406677246094,
+      "pitch": 3.682830810546875
+    },
+    "angleDifference": 129,
+    "isStrictlyBack": false,
+    "checkHistorySeconds": 0
+  },
+  {
+    "tick": 17473,
+    "roundNumber": 2,
+    "formattedTime": "Round 2 (Tick: 17473)",
+    "victim": {
+      "steamid": "76561197961491680",
+      "name": "tabseN",
+      "position": {
+        "x": 1268.3345947265625,
+        "y": 582.1694946289062,
+        "z": 122.87848663330078
+      },
+      "yaw": 58.35833740234375,
+      "pitch": -3.0689697265625
+    },
+    "attacker": {
+      "steamid": "76561198309839541",
+      "name": "SunPayus",
+      "position": {
+        "x": 1598.361083984375,
+        "y": -73.4727783203125,
+        "z": 142.03125
+      },
+      "yaw": 116.72732543945312,
+      "pitch": 1.979949951171875
+    },
+    "angleDifference": 122,
+    "isStrictlyBack": false,
+    "checkHistorySeconds": 0
+  },
+  {
+    "tick": 75771,
+    "roundNumber": 9,
+    "formattedTime": "Round 9 (Tick: 75771)",
+    "victim": {
+      "steamid": "76561198028458803",
+      "name": "blameF",
+      "position": {
+        "x": 1457.540771484375,
+        "y": 164.4839630126953,
+        "z": 132.03125
+      },
+      "yaw": 82.904541015625,
+      "pitch": 5.865325927734375
+    },
+    "attacker": {
+      "steamid": "76561198068002993",
+      "name": "HeavyGod",
+      "position": {
+        "x": 2107.33349609375,
+        "y": -115.74005126953125,
+        "z": 159.03125
+      },
+      "yaw": 155.70132446289062,
+      "pitch": 8.934295654296875
+    },
+    "angleDifference": 106,
+    "isStrictlyBack": false,
+    "checkHistorySeconds": 0
+  },
+  {
+    "tick": 84396,
+    "roundNumber": 11,
+    "formattedTime": "Round 11 (Tick: 84396)",
+    "victim": {
+      "steamid": "76561198078771373",
+      "name": "JDC",
+      "position": {
+        "x": 652.6817016601562,
+        "y": 2118.01611328125,
+        "z": 139.00595092773438
+      },
+      "yaw": 78.30538940429688,
+      "pitch": 0.990142822265625
+    },
+    "attacker": {
+      "steamid": "76561198053126645",
+      "name": "NertZ",
+      "position": {
+        "x": 926.9591064453125,
+        "y": 1984.653564453125,
+        "z": 136.03128051757812
+      },
+      "yaw": 152.25540161132812,
+      "pitch": -0.05047607421875
     },
     "angleDifference": 104,
     "isStrictlyBack": false,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 50304,
-    "roundNumber": 5,
-    "formattedTime": "Round 5 (Tick: 50304)",
+    "tick": 19216,
+    "roundNumber": 2,
+    "formattedTime": "Round 2 (Tick: 19216)",
     "victim": {
-      "steamid": "76561198845426189",
-      "name": "alpha--",
+      "steamid": "76561198118196092",
+      "name": "faveN",
       "position": {
-        "x": 1196.745361328125,
-        "y": 2709.8505859375,
-        "z": 125.859375
+        "x": 1707.880859375,
+        "y": -41.25579833984375,
+        "z": 132.03125
       },
-      "yaw": -165.75828552246094,
-      "pitch": 64.13543701171875
+      "yaw": 129.7705078125,
+      "pitch": 1.524688720703125
     },
     "attacker": {
-      "steamid": "76561198217764976",
-      "name": "danistzz",
+      "steamid": "76561198012872053",
+      "name": "huNter-",
       "position": {
-        "x": 1428.180908203125,
-        "y": 2148.734619140625,
-        "z": -8.32086181640625
+        "x": 2403.361328125,
+        "y": 316.0807189941406,
+        "z": 140.8678741455078
       },
-      "yaw": 111.24652099609375,
-      "pitch": -11.501998901367188
+      "yaw": -152.9743194580078,
+      "pitch": 0.653350830078125
     },
-    "angleDifference": 98,
+    "angleDifference": 103,
     "isStrictlyBack": false,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 2110,
-    "roundNumber": 0,
-    "formattedTime": "Round 0 (Tick: 2110)",
+    "tick": 17595,
+    "roundNumber": 2,
+    "formattedTime": "Round 2 (Tick: 17595)",
     "victim": {
-      "steamid": "76561199029023858",
-      "name": "fluffy",
+      "steamid": "76561198370176682",
+      "name": "gr1ks",
       "position": {
-        "x": 1239.9921875,
-        "y": 913.0800170898438,
-        "z": -0.3291015625
+        "x": 1247.5269775390625,
+        "y": 582.102783203125,
+        "z": 121.61939239501953
       },
-      "yaw": -82.50560760498047,
-      "pitch": 10.515975952148438
+      "yaw": -67.60368347167969,
+      "pitch": -0.910491943359375
     },
     "attacker": {
-      "steamid": "76561198154904607",
-      "name": "Norwi-",
+      "steamid": "76561198012872053",
+      "name": "huNter-",
       "position": {
-        "x": 1187.9844970703125,
-        "y": 907.0304565429688,
-        "z": -0.51702880859375
+        "x": 1454.731201171875,
+        "y": 690.659912109375,
+        "z": 126.23526763916016
       },
-      "yaw": 31.282196044921875,
-      "pitch": 2.562896728515625
+      "yaw": -150.7197265625,
+      "pitch": 2.138214111328125
     },
-    "angleDifference": 91,
+    "angleDifference": 95,
     "isStrictlyBack": false,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 69595,
-    "roundNumber": 8,
-    "formattedTime": "Round 8 (Tick: 69595)",
+    "tick": 74193,
+    "roundNumber": 9,
+    "formattedTime": "Round 9 (Tick: 74193)",
     "victim": {
-      "steamid": "76561198154904607",
-      "name": "Norwi-",
+      "steamid": "76561198118196092",
+      "name": "faveN",
       "position": {
-        "x": -1640.9132080078125,
-        "y": 1748.860107421875,
-        "z": 3.126042366027832
+        "x": 1874.406494140625,
+        "y": -51.733154296875,
+        "z": 186.03125
       },
-      "yaw": 141.43145751953125,
-      "pitch": 0.098876953125
+      "yaw": 72.21005249023438,
+      "pitch": 10.875778198242188
     },
     "attacker": {
-      "steamid": "76561198174263909",
-      "name": "glowiing",
+      "steamid": "76561198068002993",
+      "name": "HeavyGod",
       "position": {
-        "x": -1282.156005859375,
-        "y": 2254.50390625,
-        "z": 3.7139530181884766
+        "x": 2136.542236328125,
+        "y": -123.592041015625,
+        "z": 159.03125
       },
-      "yaw": -125.29289245605469,
-      "pitch": 4.527740478515625
+      "yaw": 163.54385375976562,
+      "pitch": -0.340911865234375
     },
-    "angleDifference": 87,
+    "angleDifference": 88,
     "isStrictlyBack": false,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 121986,
-    "roundNumber": 14,
-    "formattedTime": "Round 14 (Tick: 121986)",
+    "tick": 22211,
+    "roundNumber": 3,
+    "formattedTime": "Round 3 (Tick: 22211)",
     "victim": {
-      "steamid": "76561199029023858",
-      "name": "fluffy",
+      "steamid": "76561198078771373",
+      "name": "JDC",
       "position": {
-        "x": -1413.8670654296875,
-        "y": 2140.021484375,
-        "z": 55.078125
+        "x": 1980.32421875,
+        "y": -208.88507080078125,
+        "z": 256.0312805175781
       },
-      "yaw": -172.36553955078125,
-      "pitch": 50.03070068359375
+      "yaw": 2.713287353515625,
+      "pitch": 25.217742919921875
     },
     "attacker": {
-      "steamid": "76561198031908632",
-      "name": "Krad",
+      "steamid": "76561198012872053",
+      "name": "huNter-",
       "position": {
-        "x": -1611.3536376953125,
-        "y": 2844.41845703125,
-        "z": 12.274299621582031
+        "x": 2021.4615478515625,
+        "y": 612.4598999023438,
+        "z": 160.03125
       },
-      "yaw": -74.60952758789062,
-      "pitch": -0.8933258056640625
+      "yaw": -92.59552001953125,
+      "pitch": -5.7616424560546875
     },
-    "angleDifference": 82,
+    "angleDifference": 84,
     "isStrictlyBack": false,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 180249,
-    "roundNumber": 21,
-    "formattedTime": "Round 21 (Tick: 180249)",
+    "tick": 127194,
+    "roundNumber": 15,
+    "formattedTime": "Round 15 (Tick: 127194)",
     "victim": {
-      "steamid": "76561199038958787",
-      "name": "--Mokuj1n",
+      "steamid": "76561198028458803",
+      "name": "blameF",
       "position": {
-        "x": -395.82110595703125,
-        "y": 1397.0274658203125,
-        "z": -126.5855712890625
+        "x": 662.0626831054688,
+        "y": 2618.638916015625,
+        "z": 146.04049682617188
       },
-      "yaw": -130.1213836669922,
-      "pitch": 1.3520050048828125
+      "yaw": -159.04083251953125,
+      "pitch": 5.28546142578125
     },
     "attacker": {
-      "steamid": "76561198154904607",
-      "name": "Norwi-",
+      "steamid": "76561199046478501",
+      "name": "MATYS",
       "position": {
-        "x": -276.270751953125,
-        "y": 1233.42333984375,
-        "z": -104.3236083984375
+        "x": 761.6558837890625,
+        "y": 2115.03759765625,
+        "z": 136.03131103515625
       },
-      "yaw": 125.09994506835938,
-      "pitch": 1.320068359375
+      "yaw": 100.98495483398438,
+      "pitch": -0.8658599853515625
+    },
+    "angleDifference": 80,
+    "isStrictlyBack": false,
+    "checkHistorySeconds": 0
+  },
+  {
+    "tick": 26938,
+    "roundNumber": 4,
+    "formattedTime": "Round 4 (Tick: 26938)",
+    "victim": {
+      "steamid": "76561198078771373",
+      "name": "JDC",
+      "position": {
+        "x": 340.86077880859375,
+        "y": 2011.3726806640625,
+        "z": 137.43031311035156
+      },
+      "yaw": -13.188400268554688,
+      "pitch": 0.4950714111328125
+    },
+    "attacker": {
+      "steamid": "76561198053126645",
+      "name": "NertZ",
+      "position": {
+        "x": 386.017333984375,
+        "y": 2101.142822265625,
+        "z": 139.35360717773438
+      },
+      "yaw": -113.88015747070312,
+      "pitch": -8.09588623046875
     },
     "angleDifference": 76,
     "isStrictlyBack": false,
     "checkHistorySeconds": 0
   },
   {
-    "tick": 70900,
-    "roundNumber": 8,
-    "formattedTime": "Round 8 (Tick: 70900)",
+    "tick": 4235,
+    "roundNumber": 0,
+    "formattedTime": "Round 0 (Tick: 4235)",
     "victim": {
-      "steamid": "76561198415498595",
-      "name": "yiksrezo",
+      "steamid": "76561198118196092",
+      "name": "faveN",
       "position": {
-        "x": -1455.946044921875,
-        "y": 1168.5472412109375,
-        "z": 35.52571105957031
+        "x": 862.4767456054688,
+        "y": 2501.468017578125,
+        "z": 140.0843048095703
       },
-      "yaw": 154.55874633789062,
-      "pitch": -0.578155517578125
+      "yaw": 169.62582397460938,
+      "pitch": 1.8017578125
     },
     "attacker": {
-      "steamid": "76561199038958787",
-      "name": "--Mokuj1n",
+      "steamid": "76561198012872053",
+      "name": "huNter-",
       "position": {
-        "x": -1691.8072509765625,
-        "y": 934.6064453125,
-        "z": 32.46700668334961
+        "x": 840.486572265625,
+        "y": 2779.66357421875,
+        "z": 135.54266357421875
       },
-      "yaw": 45.37284851074219,
-      "pitch": -0.6004638671875
+      "yaw": -86.81671142578125,
+      "pitch": -0.20770263671875
     },
-    "angleDifference": 70,
+    "angleDifference": 75,
+    "isStrictlyBack": false,
+    "checkHistorySeconds": 0
+  },
+  {
+    "tick": 107840,
+    "roundNumber": 12,
+    "formattedTime": "Round 12 (Tick: 107840)",
+    "victim": {
+      "steamid": "76561198370176682",
+      "name": "gr1ks",
+      "position": {
+        "x": 863.9371337890625,
+        "y": 2497.65185546875,
+        "z": 140.0843048095703
+      },
+      "yaw": 154.36407470703125,
+      "pitch": -0.8850860595703125
+    },
+    "attacker": {
+      "steamid": "76561198053126645",
+      "name": "NertZ",
+      "position": {
+        "x": 906.3700561523438,
+        "y": 2779.2939453125,
+        "z": 134.3209991455078
+      },
+      "yaw": -100.3106689453125,
+      "pitch": -0.708282470703125
+    },
+    "angleDifference": 73,
     "isStrictlyBack": false,
     "checkHistorySeconds": 0
   }
